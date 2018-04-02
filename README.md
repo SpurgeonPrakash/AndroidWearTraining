@@ -7,6 +7,10 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/android-wearable-apps-training.html
 
+https://www.tertiarycourses.com.my/android-wearable-apps-training.html
+
+
+
 <p><strong>Module 1. Getting Started</strong></p>
 <ul>
 <li>Configuring the Android SDK for wearable development</li>
